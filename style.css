@@ -1,0 +1,137 @@
+.section-one {
+    display:flex;
+    background-color:white;
+}
+.half-width {
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.half-width img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 4em;
+}
+p {
+    font-size: 1em;
+}
+body {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+.h-partone {
+    color:red;
+}
+.h-parttwo {
+    color:skyblue;
+}
+.link-button {
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 550;
+    background-image: linear-gradient(lightblue, rgb(46, 190, 247));
+}
+.section-two {
+    display: flex;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.about {
+    width: 50%;
+    padding-left: 10px;
+
+}
+.about img {
+    width: 80%;
+    padding-left: 5%;
+}
+.middle-link-button {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient( orange, tomato);
+    color: white;
+    font-weight: 500;
+    border-radius: 10px;
+    margin: 10px 10px;
+}
+
+.about-h2 {
+    color: dodgerblue;
+}
+.me-h2 {
+    color: orangered;
+}
+#contact-me {
+    padding-top: 15%;
+    padding-right: 7%;
+    text-align: justify;
+
+}
+
+.section-three {
+    text-align: center;
+
+    margin: 20px;
+    padding:30px;
+    color: silver;
+}
+.section-three p {
+    padding-left: 25%;
+    padding-right: 25%;
+    color: rgb(107, 102, 102)
+}
+.section-four {
+    display:flex;
+    padding-bottom: 5%;
+    
+
+    
+}
+.recipy-item img {
+    width: 430px;
+    height: 226px;
+    border: 1px solid silver;
+    border-radius: 20px;
+    
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-right: 5%;
+    
+    
+
+}
+
+.section-four h3 {
+    
+    padding-left: 10%;
+    
+    padding-right:5%;
+    
+
+}
+.section-four p {
+    
+    padding-left: 10%;
+    
+    padding-right:5%;
+    text-align: justify;
+    
+
+}
+    
+
+.recipy-item {
+    width: 50%;
+    box-shadow: 15px 10px 50px silver;
+    margin-left:5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    border-radius: 20px;
+    padding: 0px, 20px, 0px, 20px;
+    
+}
