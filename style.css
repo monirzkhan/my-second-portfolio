@@ -88,19 +88,22 @@ body {
 .section-four {
     display:flex;
     padding-bottom: 5%;
+    padding-left: 8%;
+    padding-right: 8%
     
 
     
 }
 .recipy-item img {
-    width: 430px;
+    width: 380px;
     height: 226px;
     border: 1px solid silver;
     border-radius: 20px;
     
     margin-left: 10%;
     margin-top: 5%;
-    margin-right: 5%;
+    margin-right: 10%;
+    box-shadow: 10px 10px 30px silver;
     
     
 
@@ -108,17 +111,17 @@ body {
 
 .section-four h3 {
     
-    padding-left: 10%;
+    margin-left: 10%;
     
-    padding-right:5%;
+    margin-right:10%;
     
 
 }
 .section-four p {
     
-    padding-left: 10%;
+    margin-left: 10%;
     
-    padding-right:5%;
+    margin-right:10%;
     text-align: justify;
     
 
