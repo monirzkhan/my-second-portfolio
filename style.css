@@ -11,10 +11,10 @@
     width: 100%;
 }
 
-h1 {
+.half-width h1 {
     font-size: 4em;
 }
-p {
+.half-width p {
     font-size: 1em;
 }
 body {
@@ -104,26 +104,21 @@ body {
     margin-top: 5%;
     margin-right: 8%;
     box-shadow: 10px 10px 30px silver;
-    
-    
 
 }
 
 .section-four h3 {
     
     margin-left: 10%;
-    
     margin-right:10%;
-    
 
 }
+
 .section-four p {
     
     margin-left: 10%;
-    
     margin-right:10%;
     text-align: justify;
-    
 
 }
     
@@ -137,4 +132,49 @@ body {
     border-radius: 20px;
     padding: 0px, 20px, 0px, 20px;
     
+}
+
+.section-five {
+    display: flex;
+    box-shadow: 10px 10px 30px silver, -10px -10px 30px silver;
+    margin: 2% 12%;
+    padding: 1% 10%;
+    border-radius: 15px;
+}
+
+.three-division {
+    width: 33.5%;
+    text-align: center;
+    
+}
+.three-division h1 {
+    font-size: 2em;
+    font-weight: 1000;
+  
+
+}
+
+footer {
+    height: 150px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-top: 5%;
+    padding-top: 3%;
+}
+
+footer h1 {
+    font-weight: 500;
+    
+    
+}
+
+.orange {
+    color:rgb(226, 152, 14);
+    padding: 5px;
+
+}
+
+.silver {
+    color: silver;
 }
